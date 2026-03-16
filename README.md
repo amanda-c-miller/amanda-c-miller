@@ -14,7 +14,7 @@
 
 ## 📄 Links
 - **Portfolio:** [amandamiller.dev](https://amandamiller.dev) – Check out my portfolio website to see some more of my recent projects
-- **[Lemmatica](https://lemmatica.org/auth/demo-login)** – My Spanish-learning web app released with a live demo-system. (DM me personally if you want me your own user account!) 
+- **[Lemmatica](https://lemmatica.org/auth/demo-login)** – My Spanish-learning web app released with a live demo-system. (DM me if you want your own personal account!) 
 - **Resume:** [PDF Resume]([https://your-resume-link.com](https://amandamiller.dev/assets/AmandaMillerResume.pdf))  
 - **LinkedIn:** [linkedin.com/in/amandacatherinemiller](https://www.linkedin.com/in/amandacatherinemiller/)  
 ---
